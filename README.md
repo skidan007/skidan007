@@ -6,7 +6,7 @@
 <!-- GitHub Profile README Template -->
 
 <h1 align="center">Hi, I'm Daniel</h1>
-<h3 align="center">Aspiring Full-Stack Web Developer | ALX Software Engineering Learner</h3>
+<h3 align="center">Aspiring Full-Stack Web Developer | ALX Software Engineering </h3>
 
 <p align="center">
    <img src="https://img.shields.io/badge/-ALX%20Software%20Engineering-orange?style=flat&logo=alx&logoColor=white" alt="ALX SE">
